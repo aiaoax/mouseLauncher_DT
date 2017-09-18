@@ -1,0 +1,5 @@
+﻿Internet Explorer	C:\Program Files\Internet Explorer\iexplore.exe
+Notepad	C:\WINDOWS\system32\notepad.exe
+Paint	C:\WINDOWS\system32\mspaint.exe
+Windows Media Player	C:\Program Files (x86)\Windows Media Player\wmplayer.exe
+Wordpad	C:\Program Files\Windows NT\Accessories\wordpad.exe
